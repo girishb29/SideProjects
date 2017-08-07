@@ -1,0 +1,682 @@
+﻿Sub-Region,Alpha3Code,Alpha Ctry Code,Total Cases,Country / territory,Country name,Date,Deaths,EpiWeek onset,Imported cases,Laboratory confirmed cases,Nombre Pais,NumCtryCode (Countries codes),Num Ctry Code,Number of GBS associated with Zika,Number of GBS,Number of Records,Number of microcephalies associated,Other Neuro complications,Other source of transmission,Pregnant women,Report Epi Week,Severe cases,Sovereign,Status,Suspected cases (bin),Suspected cases,Total Cases (bin),Year
+South Cone,BRA,BRA,680700%,Brazil,Brazil,"April, 2015",0,8,0,0,Brasil,76,76,0,0,1,0,0,0,0,17,0,Brazil,Member State,4K,6807,642600%,2015
+South Cone,BRA,BRA,800%,Brazil,Brazil,"May, 2015",0,0,0,8,Brasil,76,76,0,0,1,0,0,0,0,19,0,Brazil,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"May, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,20,0,Brazil,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,3900%,Brazil,Brazil,"July, 2015",0,25,0,0,Brasil,76,76,0,0,1,0,0,0,0,27,58,Brazil,Member State,0K,39,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"October, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,40,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"October, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,40,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"October, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,40,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"October, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,40,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"October, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,40,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,9800%,Colombia,Colombia,"October, 2015",0,39,0,9,Colombia,170,170,0,0,1,0,0,0,0,40,0,Colombia,Member State,0K,89,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"October, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,40,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"October, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,40,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"October, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,40,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"October, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,40,0,El Salvador,Member State,0K,0,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"October, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,40,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"October, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,40,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"October, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,40,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"October, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,40,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"October, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,40,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"October, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,40,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"October, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,40,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"October, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,40,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"October, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,40,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,40,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"October, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,40,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,40,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"October, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,40,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"October, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,40,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"October, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,40,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"October, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,40,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"October, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,40,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"October, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,40,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"October, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,40,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"October, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,40,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,40,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"October, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,41,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"October, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,41,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"October, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,41,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"October, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,41,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"October, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,41,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,4600%,Colombia,Colombia,"October, 2015",0,0,0,46,Colombia,170,170,0,0,1,0,0,0,0,41,0,Colombia,Member State,0K,0,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"October, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,41,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"October, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,41,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"October, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,41,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"October, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,41,0,El Salvador,Member State,0K,0,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"October, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,41,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"October, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,41,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"October, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,41,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"October, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,41,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"October, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,41,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"October, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,41,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"October, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,41,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"October, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,41,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"October, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,41,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,41,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"October, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,41,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,41,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"October, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,41,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"October, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,41,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"October, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,41,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"October, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,41,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"October, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,41,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"October, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,41,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"October, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,41,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"October, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,41,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,41,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"October, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,42,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"October, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,42,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"October, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,42,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"October, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,42,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"October, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,42,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,34300%,Colombia,Colombia,"October, 2015",0,0,0,193,Colombia,170,170,0,0,1,0,0,0,0,42,0,Colombia,Member State,0K,150,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"October, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,42,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"October, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,42,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"October, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,42,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"October, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,42,0,El Salvador,Member State,0K,0,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"October, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,42,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"October, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,42,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"October, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,42,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"October, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,42,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"October, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,42,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"October, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,42,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,300%,Haiti,Haiti,"October, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,42,0,Haiti,Member State,0K,3,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"October, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,42,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"October, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,42,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"October, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,42,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,42,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"October, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,42,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,42,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"October, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,42,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"October, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,42,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"October, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,42,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"October, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,42,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"October, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,42,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"October, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,42,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"October, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,42,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"October, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,42,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,42,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"October, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,43,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"October, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,43,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"October, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,43,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"October, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,43,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"October, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,43,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,34000%,Colombia,Colombia,"October, 2015",0,0,0,93,Colombia,170,170,0,0,1,0,0,0,0,43,0,Colombia,Member State,0K,247,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"October, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,43,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"October, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,43,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"October, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,43,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"October, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,43,0,El Salvador,Member State,0K,0,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"October, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,43,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"October, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,43,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"October, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,43,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"October, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,43,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"October, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,43,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"October, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,43,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"October, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,43,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"October, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,43,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"October, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,43,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"October, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,43,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,43,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"October, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,43,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,43,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"October, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,43,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"October, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,43,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"October, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,43,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"October, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,43,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"October, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,43,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"October, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,43,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"October, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,43,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"October, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,43,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,43,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,400%,Suriname,Suriname,"November, 2015",0,0,0,4,Suriname,740,740,0,0,1,0,0,0,0,44,0,Suriname,Member State,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"November, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,44,0,United States,Associated Member,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"November, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,45,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"November, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,44,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"November, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,44,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"November, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,44,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"November, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,45,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"November, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,45,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"November, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,45,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"November, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,44,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,41400%,Colombia,Colombia,"November, 2015",0,0,0,52,Colombia,170,170,0,0,1,0,0,0,0,44,0,Colombia,Member State,0K,362,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"November, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,44,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"November, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,44,0,Venezuela,Member State,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"November, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,45,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,83600%,Colombia,Colombia,"November, 2015",0,0,0,95,Colombia,170,170,0,2,1,0,0,0,0,45,0,Colombia,Member State,0K,741,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"November, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,45,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"November, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,45,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"November, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,44,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"November, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,44,0,El Salvador,Member State,0K,0,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"November, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,44,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"November, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,44,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"November, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,44,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"November, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,44,0,Panama,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"November, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,45,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"November, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,45,0,El Salvador,Member State,0K,0,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"November, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,45,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"November, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,45,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"November, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,45,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"November, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,45,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"November, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,44,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,44,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,44,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"November, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,45,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,45,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"November, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,44,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"November, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,44,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"November, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,44,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,44,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"November, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,44,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,200%,Suriname,Suriname,"November, 2015",0,0,0,2,Suriname,740,740,0,0,1,0,0,0,0,44,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,44,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"November, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,45,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"November, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,45,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"November, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,45,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,45,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"November, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,45,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,45,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"November, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,44,0,Mexico,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"November, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,45,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"November, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,44,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"November, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,44,0,Paraguay,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"November, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,45,0,Brazil,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,4717200%,Brazil,Brazil,"November, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,45,0,Brazil,Member State,47K,47172,4498200%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"November, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,45,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"November, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,44,0,United States of America,Other,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"November, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,45,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"November, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,44,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"November, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,45,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"November, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,44,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"November, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,44,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"November, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,44,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"November, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,45,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"November, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,45,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"November, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,45,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,44,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,45,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,45,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"November, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,46,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"November, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,46,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"November, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,46,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"November, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,46,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"November, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,46,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,113600%,Colombia,Colombia,"November, 2015",0,0,0,90,Colombia,170,170,0,2,1,0,0,0,0,46,0,Colombia,Member State,0K,1046,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"November, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,46,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"November, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,46,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"November, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,46,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"November, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,46,0,El Salvador,Member State,0K,0,0%,2015
+Central America,SLV,SLV,19500%,El Salvador,El Salvador,"November, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,46,0,El Salvador,Member State,0K,195,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"November, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,46,0,Guatemala,Member State,0K,0,0%,2015
+Central America,GTM,GTM,100%,Guatemala,Guatemala,"November, 2015",0,0,0,1,Guatemala,320,320,0,0,1,0,0,0,0,46,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"November, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,46,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"November, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,46,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"November, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,46,0,Panama,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"November, 2015",0,45,0,0,Panamá,591,591,0,0,1,0,0,0,0,46,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"November, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,46,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,46,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,46,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"November, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,46,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"November, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,46,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"November, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,46,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,46,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"November, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,46,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,46,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"November, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,46,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"November, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,46,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"November, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,46,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"November, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,46,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"November, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,46,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"November, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,46,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"November, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,46,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"November, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,46,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,46,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"November, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,47,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"November, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,47,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"November, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,47,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"November, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,47,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"November, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,47,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,106500%,Colombia,Colombia,"November, 2015",0,0,0,0,Colombia,170,170,0,1,1,0,0,0,0,47,0,Colombia,Member State,0K,1065,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"November, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,47,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"November, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,47,0,Venezuela,Member State,0K,0,0%,2015
+Andean,VEN,VEN,700%,Venezuela,Venezuela,"November, 2015",0,0,0,4,Venezuela,862,862,0,0,1,0,0,0,0,47,0,Venezuela,Member State,0K,3,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"November, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,47,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"November, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,47,0,El Salvador,Member State,0K,0,0%,2015
+Central America,SLV,SLV,35100%,El Salvador,El Salvador,"November, 2015",0,0,0,3,El Salvador,222,222,0,0,1,0,0,0,0,47,0,El Salvador,Member State,0K,348,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"November, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,47,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"November, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,47,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"November, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,47,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,400%,Panama,Panama,"November, 2015",0,0,0,4,Panamá,591,591,0,0,1,0,0,0,0,47,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"November, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,47,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,47,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"November, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,47,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"November, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,47,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"November, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,47,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"November, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,47,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,47,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"November, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,47,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,47,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"November, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,47,0,Mexico,Member State,0K,0,0%,2015
+North America,MEX,MEX,200%,Mexico,Mexico,"November, 2015",0,0,1,2,México,484,484,0,0,1,0,0,0,0,47,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"November, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,47,0,Brazil,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,1659300%,Brazil,Brazil,"November, 2015",3,39,0,0,Brasil,76,76,0,0,1,0,0,0,0,47,0,Brazil,Member State,13K,16593,1606500%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"November, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,47,0,Paraguay,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,600%,Paraguay,Paraguay,"November, 2015",0,45,0,6,Paraguay,600,600,0,0,1,0,0,0,0,47,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"November, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,47,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"November, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,47,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"November, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,47,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"November, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,47,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"November, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,47,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,47,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"December, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,48,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"December, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,48,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"December, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,48,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"December, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,48,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"December, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,48,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,140000%,Colombia,Colombia,"December, 2015",0,0,0,37,Colombia,170,170,0,4,1,0,0,0,0,48,0,Colombia,Member State,0K,1363,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"December, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,48,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"December, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,48,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"December, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,48,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,48,0,El Salvador,Member State,0K,0,0%,2015
+Central America,SLV,SLV,84600%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,8,1,0,0,0,0,48,0,El Salvador,Member State,0K,846,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"December, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,48,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"December, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,48,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"December, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,48,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"December, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,48,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"December, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,48,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,48,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,48,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"December, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,48,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"December, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,48,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"December, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,48,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,48,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"December, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,48,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,48,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"December, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,48,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"December, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,48,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"December, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,48,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"December, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,48,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"December, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,48,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"December, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,48,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"December, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,48,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"December, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,48,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,48,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"December, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,49,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"December, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,49,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"December, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,49,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"December, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,49,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"December, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,49,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,183800%,Colombia,Colombia,"December, 2015",0,0,0,61,Colombia,170,170,0,2,1,0,0,0,0,49,0,Colombia,Member State,0K,1777,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"December, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,49,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"December, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,49,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"December, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,49,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,49,0,El Salvador,Member State,0K,0,0%,2015
+Central America,SLV,SLV,91400%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,3,1,0,0,0,0,49,0,El Salvador,Member State,0K,914,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"December, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,49,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"December, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,49,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"December, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,49,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,500%,Panama,Panama,"December, 2015",0,0,0,5,Panamá,591,591,0,0,1,0,0,0,0,49,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"December, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,49,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,49,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,500%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,49,0,Haiti,Member State,0K,5,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"December, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,49,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"December, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,49,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"December, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,49,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,49,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"December, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,49,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,49,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"December, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,49,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"December, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,49,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"December, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,49,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"December, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,49,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"December, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,49,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"December, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,49,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"December, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,49,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"December, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,49,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,49,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"December, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,50,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"December, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,50,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"December, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,50,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"December, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,50,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"December, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,50,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,147600%,Colombia,Colombia,"December, 2015",0,0,0,24,Colombia,170,170,0,1,1,0,0,0,0,50,0,Colombia,Member State,0K,1452,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"December, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,50,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"December, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,50,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"December, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,50,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,50,0,El Salvador,Member State,0K,0,0%,2015
+Central America,SLV,SLV,75300%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,4,1,0,0,0,0,50,0,El Salvador,Member State,0K,753,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"December, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,50,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"December, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,50,0,Honduras,Member State,0K,0,0%,2015
+Central America,HND,HND,200%,Honduras,Honduras,"December, 2015",0,0,0,2,Honduras,340,340,0,0,1,0,0,0,0,50,0,Honduras,Member State,0K,0,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"December, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,50,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"December, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,50,0,Panama,Member State,0K,0,0%,2015
+Central America,PAN,PAN,2000%,Panama,Panama,"December, 2015",0,45,0,20,Panamá,591,591,0,0,1,0,0,0,0,50,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"December, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,50,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,50,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,50,0,Haiti,Member State,0K,0,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"December, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,50,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"December, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,50,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"December, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,50,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,50,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"December, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,50,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,50,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"December, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,50,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"December, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,50,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"December, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,50,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"December, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,50,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"December, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,50,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"December, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,50,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"December, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,50,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"December, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,50,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,50,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"December, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,51,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"December, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,51,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"December, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,51,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"December, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,51,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"December, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,51,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,102400%,Colombia,Colombia,"December, 2015",0,0,0,36,Colombia,170,170,0,6,1,0,0,0,0,51,0,Colombia,Member State,0K,988,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"December, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,51,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"December, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,51,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"December, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,51,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,51,0,El Salvador,Member State,0K,0,0%,2015
+Central America,SLV,SLV,46400%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,9,1,0,0,0,0,51,0,El Salvador,Member State,0K,464,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"December, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,51,0,Guatemala,Member State,0K,0,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"December, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,51,0,Honduras,Member State,0K,0,0%,2015
+Central America,HND,HND,5500%,Honduras,Honduras,"December, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,51,0,Honduras,Member State,0K,55,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"December, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,51,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,700%,Panama,Panama,"December, 2015",0,0,0,7,Panamá,591,591,0,0,1,0,0,0,0,51,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"December, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,51,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,51,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,200%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,51,0,Haiti,Member State,0K,2,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"December, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,51,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"December, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,51,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"December, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,51,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,51,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"December, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,51,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,51,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"December, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,51,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"December, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,51,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"December, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,51,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"December, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,51,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"December, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,51,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"December, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,51,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"December, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,51,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"December, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,51,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,51,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"December, 2015",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,52,0,United States,Associated Member,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,900%,Puerto Rico,Puerto Rico,"December, 2015",0,0,0,9,Puerto Rico,630,630,0,0,1,0,0,0,0,52,0,United States,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"December, 2015",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,52,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"December, 2015",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,52,0,Netherlands,Associated Member,0K,0,0%,2015
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"December, 2015",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,52,0,Netherlands,Associated Member,0K,0,0%,2015
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"December, 2015",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,52,0,Bolivia,Member State,0K,0,0%,2015
+Andean,COL,COL,169600%,Colombia,Colombia,"December, 2015",0,0,0,10,Colombia,170,170,0,4,1,0,0,0,0,52,0,Colombia,Member State,0K,1686,0%,2015
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"December, 2015",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,52,0,Ecuador,Member State,0K,0,0%,2015
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"December, 2015",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,52,0,Venezuela,Member State,0K,0,0%,2015
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"December, 2015",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,52,0,Costa Rica,Member State,0K,0,0%,2015
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,52,0,El Salvador,Member State,0K,0,0%,2015
+Central America,SLV,SLV,31600%,El Salvador,El Salvador,"December, 2015",0,0,0,0,El Salvador,222,222,0,15,1,0,0,0,63,52,0,El Salvador,Member State,0K,316,0%,2015
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"December, 2015",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,52,0,Guatemala,Member State,0K,0,0%,2015
+Central America,GTM,GTM,26700%,Guatemala,Guatemala,"December, 2015",0,0,0,67,Guatemala,320,320,0,0,1,0,0,0,1,52,0,Guatemala,Member State,0K,200,0%,2015
+Central America,HND,HND,0%,Honduras,Honduras,"December, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,52,0,Honduras,Member State,0K,0,0%,2015
+Central America,HND,HND,6200%,Honduras,Honduras,"December, 2015",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,52,0,Honduras,Member State,0K,62,0%,2015
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"December, 2015",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,52,0,Nicaragua,Member State,0K,0,0%,2015
+Central America,PAN,PAN,0%,Panama,Panama,"December, 2015",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,52,0,Panama,Member State,0K,0,0%,2015
+Central America,PAN,PAN,200%,Panama,Panama,"December, 2015",0,0,0,2,Panamá,591,591,0,0,1,0,0,0,0,52,0,Panama,Member State,0K,0,0%,2015
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"December, 2015",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,52,0,Dominican Republic,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,52,0,Haiti,Member State,0K,0,0%,2015
+Latin Caribbean,HTI,HTI,200%,Haiti,Haiti,"December, 2015",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,52,0,Haiti,Member State,0K,2,0%,2015
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"December, 2015",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,52,0,Barbados,Member State,0K,0,0%,2015
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"December, 2015",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,52,0,Guyana,Member State,0K,0,0%,2015
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"December, 2015",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,52,0,Jamaica,Member State,0K,0,0%,2015
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,52,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2015
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"December, 2015",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,52,0,Suriname,Member State,0K,0,0%,2015
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,52,0,Trinidad and Tobago,Member State,0K,0,0%,2015
+North America,MEX,MEX,0%,Mexico,Mexico,"December, 2015",0,0,0,0,México,484,484,0,0,1,0,0,0,0,52,0,Mexico,Member State,0K,0,0%,2015
+North America,MEX,MEX,1300%,Mexico,Mexico,"December, 2015",0,0,0,13,México,484,484,0,0,1,0,0,0,0,52,0,Mexico,Member State,0K,0,0%,2015
+South Cone,BRA,BRA,0%,Brazil,Brazil,"December, 2015",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,52,0,Brazil,Member State,0K,0,0%,2015
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"December, 2015",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,52,0,Paraguay,Member State,0K,0,0%,2015
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"December, 2015",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,52,0,United States of America,Other,0K,0,0%,2015
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"December, 2015",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,52,0,France,Overseas collectivities,0K,0,0%,2015
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"December, 2015",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,52,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"December, 2015",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,52,0,France,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"December, 2015",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,52,0,France,Participating State \Territory,0K,0,0%,2015
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,52,0,Netherlands,Participating State \Territory,0K,0,0%,2015
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"January, 2016",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,1,0,United States,Associated Member,0K,0,0%,2016
+Latin Caribbean,PRI,PRI,400%,Puerto Rico,Puerto Rico,"January, 2016",0,0,0,4,Puerto Rico,630,630,0,0,1,0,0,0,0,1,0,United States,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"January, 2016",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,1,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"January, 2016",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,1,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"January, 2016",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,1,0,Netherlands,Associated Member,0K,0,0%,2016
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"January, 2016",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,1,0,Bolivia,Member State,0K,0,0%,2016
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"January, 2016",0,0,1,0,Bolivia,68,68,0,0,1,0,0,0,0,1,0,Bolivia,Member State,0K,0,0%,2016
+Andean,COL,COL,181900%,Colombia,Colombia,"January, 2016",0,0,0,30,Colombia,170,170,0,14,1,0,0,0,0,1,0,Colombia,Member State,0K,1789,0%,2016
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"January, 2016",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,1,0,Ecuador,Member State,0K,0,0%,2016
+Andean,ECU,ECU,200%,Ecuador,Ecuador,"January, 2016",0,0,4,2,Ecuador,218,218,0,0,1,0,0,0,0,1,0,Ecuador,Member State,0K,0,0%,2016
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"January, 2016",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,1,0,Venezuela,Member State,0K,0,0%,2016
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"January, 2016",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,1,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,1,0,El Salvador,Member State,0K,0,0%,2016
+Central America,SLV,SLV,109000%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,23,1,0,0,0,19,1,0,El Salvador,Member State,0K,1090,0%,2016
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"January, 2016",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,1,0,Guatemala,Member State,0K,0,0%,2016
+Central America,HND,HND,0%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,1,0,Honduras,Member State,0K,0,0%,2016
+Central America,HND,HND,60800%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,1,0,Honduras,Member State,0K,608,0%,2016
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"January, 2016",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,1,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,PAN,PAN,0%,Panama,Panama,"January, 2016",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,1,0,Panama,Member State,0K,0,0%,2016
+Central America,PAN,PAN,400%,Panama,Panama,"January, 2016",0,0,0,4,Panamá,591,591,0,0,1,0,0,0,0,1,0,Panama,Member State,0K,0,0%,2016
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"January, 2016",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,1,0,Dominican Republic,Member State,0K,0,0%,2016
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"January, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,1,0,Haiti,Member State,0K,0,0%,2016
+Latin Caribbean,HTI,HTI,1800%,Haiti,Haiti,"January, 2016",0,0,0,5,Haití,332,332,0,0,1,0,0,0,0,1,0,Haiti,Member State,0K,13,0%,2016
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"January, 2016",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,1,0,Barbados,Member State,0K,0,0%,2016
+Non Latin Caribbean,BRB,BRB,300%,Barbados,Barbados,"January, 2016",0,0,0,3,Barbados,52,52,0,0,1,0,0,0,0,1,0,Barbados,Member State,0K,0,0%,2016
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"January, 2016",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,1,0,Guyana,Member State,0K,0,0%,2016
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"January, 2016",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,1,0,Jamaica,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,1,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"January, 2016",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,1,0,Suriname,Member State,0K,0,0%,2016
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,1,0,Trinidad and Tobago,Member State,0K,0,0%,2016
+North America,MEX,MEX,0%,Mexico,Mexico,"January, 2016",0,0,0,0,México,484,484,0,0,1,0,0,0,0,1,0,Mexico,Member State,0K,0,0%,2016
+South Cone,BRA,BRA,0%,Brazil,Brazil,"January, 2016",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,1,0,Brazil,Member State,0K,0,0%,2016
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"January, 2016",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,1,0,Paraguay,Member State,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"January, 2016",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,1,0,United States of America,Other,0K,0,0%,2016
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"January, 2016",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,1,0,France,Overseas collectivities,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"January, 2016",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,1,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"January, 2016",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,1,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,700%,French Guiana,French Guiana,"January, 2016",0,52,10,7,Guayana Francesa,254,254,0,0,1,0,0,0,0,1,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"January, 2016",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,1,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,MTQ,MTQ,1200%,Martinique,Martinique,"January, 2016",0,52,0,12,Martinica,474,474,0,0,1,0,0,0,0,1,0,France,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,1,0,Netherlands,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,GUY,GUY,100%,Guyana,Guyana,"January, 2016",0,0,0,1,Guyana,328,328,0,0,1,0,0,0,0,2,0,Guyana,Member State,0K,0,0%,2016
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"January, 2016",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,2,0,United States,Associated Member,0K,0,0%,2016
+Latin Caribbean,PRI,PRI,400%,Puerto Rico,Puerto Rico,"January, 2016",0,0,0,4,Puerto Rico,630,630,0,0,1,0,0,0,0,2,0,United States,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"January, 2016",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,2,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"January, 2016",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,2,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"January, 2016",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,2,0,Netherlands,Associated Member,0K,0,0%,2016
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"January, 2016",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,2,0,Bolivia,Member State,0K,0,0%,2016
+Andean,BOL,BOL,100%,Bolivia,Bolivia,"January, 2016",0,0,0,1,Bolivia,68,68,0,0,1,0,0,0,0,2,0,Bolivia,Member State,0K,0,0%,2016
+Andean,COL,COL,288800%,Colombia,Colombia,"January, 2016",0,0,0,22,Colombia,170,170,0,3,1,0,0,0,0,2,0,Colombia,Member State,0K,2866,0%,2016
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"January, 2016",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,2,0,Ecuador,Member State,0K,0,0%,2016
+Andean,ECU,ECU,500%,Ecuador,Ecuador,"January, 2016",0,0,1,5,Ecuador,218,218,0,0,1,0,0,0,0,2,0,Ecuador,Member State,0K,0,0%,2016
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"January, 2016",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,2,0,Venezuela,Member State,0K,0,0%,2016
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"January, 2016",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,2,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,2,0,El Salvador,Member State,0K,0,0%,2016
+Central America,SLV,SLV,101800%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,27,1,0,0,0,31,2,0,El Salvador,Member State,0K,1018,0%,2016
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"January, 2016",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,2,0,Guatemala,Member State,0K,0,0%,2016
+Central America,GTM,GTM,11500%,Guatemala,Guatemala,"January, 2016",0,0,0,37,Guatemala,320,320,0,0,1,0,0,0,0,2,0,Guatemala,Member State,0K,78,0%,2016
+Central America,HND,HND,0%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,2,0,Honduras,Member State,0K,0,0%,2016
+Central America,HND,HND,111900%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,2,0,Honduras,Member State,0K,1119,0%,2016
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"January, 2016",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,2,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,PAN,PAN,300%,Panama,Panama,"January, 2016",0,0,0,3,Panamá,591,591,0,0,1,0,0,0,0,2,0,Panama,Member State,0K,0,0%,2016
+Latin Caribbean,DOM,DOM,0%,Dominican Republic,Dominican Republic,"January, 2016",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,2,0,Dominican Republic,Member State,0K,0,0%,2016
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"January, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,2,0,Haiti,Member State,0K,0,0%,2016
+Latin Caribbean,HTI,HTI,400%,Haiti,Haiti,"January, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,2,0,Haiti,Member State,0K,4,0%,2016
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"January, 2016",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,2,0,Barbados,Member State,0K,0,0%,2016
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"January, 2016",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,2,0,Guyana,Member State,0K,0,0%,2016
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"January, 2016",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,2,0,Jamaica,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,2,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"January, 2016",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,2,0,Suriname,Member State,0K,0,0%,2016
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,2,0,Trinidad and Tobago,Member State,0K,0,0%,2016
+North America,MEX,MEX,300%,Mexico,Mexico,"January, 2016",0,0,0,3,México,484,484,0,0,1,0,0,0,0,2,0,Mexico,Member State,0K,0,0%,2016
+South Cone,BRA,BRA,0%,Brazil,Brazil,"January, 2016",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,2,0,Brazil,Member State,0K,0,0%,2016
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"January, 2016",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,2,0,Paraguay,Member State,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"January, 2016",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,2,0,United States of America,Other,0K,0,0%,2016
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"January, 2016",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,2,0,France,Overseas collectivities,0K,0,0%,2016
+Latin Caribbean,MAF,MAF,100%,Saint Martin,Saint Martin,"January, 2016",0,0,0,1,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,2,0,France,Overseas collectivities,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"January, 2016",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,2,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,100%,Guadeloupe,Guadeloupe,"January, 2016",0,0,0,1,Guadalupe,312,312,0,0,1,0,0,0,0,2,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"January, 2016",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,2,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,16900%,French Guiana,French Guiana,"January, 2016",0,0,0,39,Guayana Francesa,254,254,0,0,1,0,0,0,0,2,0,France,Participating State \Territory,0K,130,0%,2016
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"January, 2016",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,2,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,MTQ,MTQ,123100%,Martinique,Martinique,"January, 2016",0,52,0,0,Martinica,474,474,0,0,1,0,0,0,0,2,0,France,Participating State \Territory,0K,1231,0%,2016
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,2,0,Netherlands,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,100%,United States Virgin Islands,United States Virgin Islands,"January, 2016",0,0,0,1,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,3,0,United States of America,Other,0K,0,0%,2016
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"January, 2016",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,3,0,United States,Associated Member,0K,0,0%,2016
+Latin Caribbean,PRI,PRI,400%,Puerto Rico,Puerto Rico,"January, 2016",0,0,0,4,Puerto Rico,630,630,0,1,1,0,0,0,1,3,3,United States,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"January, 2016",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,3,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"January, 2016",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,3,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"January, 2016",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,3,0,Netherlands,Associated Member,0K,0,0%,2016
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"January, 2016",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,3,0,Bolivia,Member State,0K,0,0%,2016
+Andean,COL,COL,387800%,Colombia,Colombia,"January, 2016",0,0,0,252,Colombia,170,170,0,3,1,0,0,0,0,3,0,Colombia,Member State,0K,3626,321300%,2016
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"January, 2016",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,3,0,Ecuador,Member State,0K,0,0%,2016
+Andean,ECU,ECU,600%,Ecuador,Ecuador,"January, 2016",0,0,5,6,Ecuador,218,218,0,0,1,0,0,0,0,3,0,Ecuador,Member State,0K,0,0%,2016
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"January, 2016",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,3,0,Venezuela,Member State,0K,0,0%,2016
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"January, 2016",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,3,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,3,0,El Salvador,Member State,0K,0,0%,2016
+Central America,SLV,SLV,83900%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,13,1,0,0,0,29,3,0,El Salvador,Member State,0K,839,0%,2016
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"January, 2016",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,3,0,Guatemala,Member State,0K,0,0%,2016
+Central America,HND,HND,0%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,3,0,Honduras,Member State,0K,0,0%,2016
+Central America,HND,HND,131000%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,3,0,Honduras,Member State,0K,1310,0%,2016
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"January, 2016",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,3,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,PAN,PAN,400%,Panama,Panama,"January, 2016",0,0,0,4,Panamá,591,591,0,0,1,0,0,0,0,3,0,Panama,Member State,0K,0,0%,2016
+Latin Caribbean,DOM,DOM,2700%,Dominican Republic,Dominican Republic,"January, 2016",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,3,0,Dominican Republic,Member State,0K,27,0%,2016
+Latin Caribbean,DOM,DOM,1000%,Dominican Republic,Dominican Republic,"January, 2016",0,0,0,10,República Dominicana,214,214,0,0,1,0,0,0,0,3,0,Dominican Republic,Member State,0K,0,0%,2016
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"January, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,3,0,Haiti,Member State,0K,0,0%,2016
+Latin Caribbean,HTI,HTI,9600%,Haiti,Haiti,"January, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,3,0,Haiti,Member State,0K,96,0%,2016
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"January, 2016",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,3,0,Barbados,Member State,0K,0,0%,2016
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"January, 2016",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,3,0,Guyana,Member State,0K,0,0%,2016
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"January, 2016",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,3,0,Jamaica,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,3,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"January, 2016",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,3,0,Suriname,Member State,0K,0,0%,2016
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,3,0,Trinidad and Tobago,Member State,0K,0,0%,2016
+North America,MEX,MEX,1600%,Mexico,Mexico,"January, 2016",0,0,0,16,México,484,484,0,0,1,0,0,0,0,3,0,Mexico,Member State,0K,0,0%,2016
+South Cone,BRA,BRA,0%,Brazil,Brazil,"January, 2016",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,3,0,Brazil,Member State,0K,0,0%,2016
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"January, 2016",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,3,0,Paraguay,Member State,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"January, 2016",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,3,0,United States of America,Other,0K,0,0%,2016
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"January, 2016",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,3,0,France,Overseas collectivities,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"January, 2016",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,3,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,900%,Guadeloupe,Guadeloupe,"January, 2016",0,0,0,9,Guadalupe,312,312,0,0,1,0,0,0,0,3,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"January, 2016",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,3,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,14400%,French Guiana,French Guiana,"January, 2016",0,0,0,29,Guayana Francesa,254,254,0,0,1,0,0,0,0,3,0,France,Participating State \Territory,0K,115,0%,2016
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"January, 2016",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,3,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,MTQ,MTQ,106400%,Martinique,Martinique,"January, 2016",0,52,0,0,Martinica,474,474,0,0,1,0,0,0,0,3,0,France,Participating State \Territory,0K,1064,0%,2016
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,3,0,Netherlands,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,CUW,CUW,100%,Curacao,Curacao,"January, 2016",0,0,0,1,Curazao,531,531,0,0,1,0,0,0,0,4,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SUR,SUR,109700%,Suriname,Suriname,"January, 2016",4,0,0,0,Suriname,740,740,0,13,1,0,0,0,0,4,0,Suriname,Member State,0K,1097,0%,2015
+Latin Caribbean,PRI,PRI,900%,Puerto Rico,Puerto Rico,"January, 2016",,0,0,9,Puerto Rico,630,630,0,0,1,0,0,0,0,4,0,United States,Associated Member,0K,0,0%,2016
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"January, 2016",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,4,0,United States,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"January, 2016",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,4,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"January, 2016",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,4,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"January, 2016",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,4,0,Netherlands,Associated Member,0K,0,0%,2016
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"January, 2016",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,4,0,Bolivia,Member State,0K,0,0%,2016
+Andean,COL,COL,534800%,Colombia,Colombia,"January, 2016",0,0,0,281,Colombia,170,170,0,0,1,0,0,0,3177,4,0,Colombia,Member State,4K,5067,321300%,2016
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"January, 2016",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,4,0,Ecuador,Member State,0K,0,0%,2016
+Andean,ECU,ECU,1200%,Ecuador,Ecuador,"January, 2016",0,0,4,12,Ecuador,218,218,0,0,1,0,0,0,0,4,0,Ecuador,Member State,0K,0,0%,2016
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"January, 2016",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,4,0,Venezuela,Member State,0K,0,0%,2016
+Andean,VEN,VEN,469300%,Venezuela,Venezuela,"January, 2016",1,0,0,0,Venezuela,862,862,3,252,1,0,3,0,0,4,0,Venezuela,Member State,4K,4693,321300%,2016
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"January, 2016",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,4,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,CRI,COR,100%,Costa Rica,Costa Rica,"January, 2016",0,0,0,1,Costa Rica,188,188,0,0,1,0,0,0,0,4,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,4,0,El Salvador,Member State,0K,0,0%,2016
+Central America,SLV,SLV,78900%,El Salvador,El Salvador,"January, 2016",0,0,0,0,El Salvador,222,222,0,10,1,0,0,0,17,4,23,El Salvador,Member State,0K,789,0%,2016
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"January, 2016",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,4,0,Guatemala,Member State,0K,0,0%,2016
+Central America,HND,HND,0%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,4,0,Honduras,Member State,0K,0,0%,2016
+Central America,HND,HND,143600%,Honduras,Honduras,"January, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,4,0,Honduras,Member State,0K,1436,0%,2016
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"January, 2016",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,4,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,NIC,NIC,200%,Nicaragua,Nicaragua,"January, 2016",0,0,0,2,Nicaragua,558,558,0,0,1,0,0,0,0,4,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,PAN,PAN,0%,Panama,Panama,"January, 2016",0,0,0,0,Panamá,591,591,0,0,1,0,0,0,0,4,0,Panama,Member State,0K,0,0%,2016
+Central America,PAN,PAN,400%,Panama,Panama,"January, 2016",0,0,0,4,Panamá,591,591,0,0,1,0,0,0,0,4,0,Panama,Member State,0K,0,0%,2016
+Latin Caribbean,DOM,DOM,7700%,Dominican Republic,Dominican Republic,"January, 2016",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,4,0,Dominican Republic,Member State,0K,77,0%,2016
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"January, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,4,0,Haiti,Member State,0K,0,0%,2016
+Latin Caribbean,HTI,HTI,20400%,Haiti,Haiti,"January, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,4,0,Haiti,Member State,0K,204,0%,2016
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"January, 2016",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,4,0,Barbados,Member State,0K,0,0%,2016
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"January, 2016",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,4,0,Guyana,Member State,0K,0,0%,2016
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"January, 2016",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,4,0,Jamaica,Member State,0K,0,0%,2016
+Non Latin Caribbean,JAM,JAM,100%,Jamaica,Jamaica,"January, 2016",0,0,0,1,Jamaica,388,388,0,0,1,0,0,0,0,4,0,Jamaica,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,4,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"January, 2016",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,4,0,Suriname,Member State,0K,0,0%,2016
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,4,0,Trinidad and Tobago,Member State,0K,0,0%,2016
+North America,MEX,MEX,0%,Mexico,Mexico,"January, 2016",0,0,0,0,México,484,484,0,0,1,0,0,0,0,4,0,Mexico,Member State,0K,0,0%,2016
+North America,MEX,MEX,3100%,Mexico,Mexico,"January, 2016",0,0,0,31,México,484,484,0,0,1,0,0,0,0,4,0,Mexico,Member State,0K,0,0%,2016
+South Cone,BRA,BRA,0%,Brazil,Brazil,"January, 2016",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,4,0,Brazil,Member State,0K,0,0%,2016
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"January, 2016",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,4,0,Paraguay,Member State,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"January, 2016",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,4,0,United States of America,Other,0K,0,0%,2016
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"January, 2016",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,4,0,France,Overseas collectivities,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"January, 2016",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,4,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,700%,Guadeloupe,Guadeloupe,"January, 2016",0,0,0,7,Guadalupe,312,312,0,0,1,0,1,0,0,4,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"January, 2016",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,4,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,19800%,French Guiana,French Guiana,"January, 2016",0,0,0,13,Guayana Francesa,254,254,0,3,1,0,0,0,8,4,0,France,Participating State \Territory,0K,185,0%,2016
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"January, 2016",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,4,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,MTQ,MTQ,164500%,Martinique,Martinique,"January, 2016",0,52,0,0,Martinica,474,474,2,0,1,0,0,0,13,4,0,France,Participating State \Territory,0K,1645,0%,2016
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,4,0,Netherlands,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,PRI,PRI,0%,Puerto Rico,Puerto Rico,"February, 2016",0,0,0,0,Puerto Rico,630,630,0,0,1,0,0,0,0,5,0,United States,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"February, 2016",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,5,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,CUW,CUW,0%,Curacao,Curacao,"February, 2016",0,0,0,0,Curazao,531,531,0,0,1,0,0,0,0,5,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"February, 2016",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,5,0,Netherlands,Associated Member,0K,0,0%,2016
+Andean,BOL,BOL,0%,Bolivia,Bolivia,"February, 2016",0,0,0,0,Bolivia,68,68,0,0,1,0,0,0,0,5,0,Bolivia,Member State,0K,0,0%,2016
+Andean,COL,COL,591000%,Colombia,Colombia,"February, 2016",3,0,0,173,Colombia,170,170,3,0,1,0,0,0,1836,5,0,Colombia,Member State,4K,5737,321300%,2016
+Andean,ECU,ECU,0%,Ecuador,Ecuador,"February, 2016",0,0,0,0,Ecuador,218,218,0,0,1,0,0,0,0,5,0,Ecuador,Member State,0K,0,0%,2016
+Andean,VEN,VEN,0%,Venezuela,Venezuela,"February, 2016",0,0,0,0,Venezuela,862,862,0,0,1,0,0,0,0,5,0,Venezuela,Member State,0K,0,0%,2016
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"February, 2016",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,5,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,SLV,SLV,0%,El Salvador,El Salvador,"February, 2016",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,5,0,El Salvador,Member State,0K,0,0%,2016
+Central America,SLV,SLV,35100%,El Salvador,El Salvador,"February, 2016",0,0,0,0,El Salvador,222,222,0,9,1,0,0,0,0,5,0,El Salvador,Member State,0K,351,0%,2016
+Central America,GTM,GTM,0%,Guatemala,Guatemala,"February, 2016",0,0,0,0,Guatemala,320,320,0,0,1,0,0,0,0,5,0,Guatemala,Member State,0K,0,0%,2016
+Central America,HND,HND,0%,Honduras,Honduras,"February, 2016",0,0,0,0,Honduras,340,340,0,0,1,0,0,0,0,5,0,Honduras,Member State,0K,0,0%,2016
+Central America,NIC,NIC,0%,Nicaragua,Nicaragua,"February, 2016",0,0,0,0,Nicaragua,558,558,0,0,1,0,0,0,0,5,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,NIC,NIC,1900%,Nicaragua,Nicaragua,"February, 2016",0,0,0,19,Nicaragua,558,558,0,0,1,0,0,0,0,5,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,PAN,PAN,1000%,Panama,Panama,"February, 2016",0,0,0,10,Panamá,591,591,0,0,1,0,0,0,0,5,0,Panama,Member State,0K,0,0%,2016
+Latin Caribbean,DOM,DOM,12700%,Dominican Republic,Dominican Republic,"February, 2016",0,0,0,8,República Dominicana,214,214,0,0,1,0,0,0,0,5,0,Dominican Republic,Member State,0K,119,0%,2016
+Latin Caribbean,HTI,HTI,0%,Haiti,Haiti,"February, 2016",0,0,0,0,Haití,332,332,0,0,1,0,0,0,0,5,0,Haiti,Member State,0K,0,0%,2016
+Non Latin Caribbean,BRB,BRB,0%,Barbados,Barbados,"February, 2016",0,0,0,0,Barbados,52,52,0,0,1,0,0,0,0,5,0,Barbados,Member State,0K,0,0%,2016
+Non Latin Caribbean,GUY,GUY,0%,Guyana,Guyana,"February, 2016",0,0,0,0,Guyana,328,328,0,0,1,0,0,0,0,5,0,Guyana,Member State,0K,0,0%,2016
+Non Latin Caribbean,JAM,JAM,0%,Jamaica,Jamaica,"February, 2016",0,0,0,0,Jamaica,388,388,0,0,1,0,0,0,0,5,0,Jamaica,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,5,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,SUR,SUR,0%,Suriname,Suriname,"February, 2016",0,0,0,0,Suriname,740,740,0,0,1,0,0,0,0,5,0,Suriname,Member State,0K,0,0%,2016
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"February, 2016",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,5,0,Trinidad and Tobago,Member State,0K,0,0%,2016
+North America,MEX,MEX,0%,Mexico,Mexico,"February, 2016",0,0,0,0,México,484,484,0,0,1,0,0,0,0,5,0,Mexico,Member State,0K,0,0%,2016
+North America,MEX,MEX,1500%,Mexico,Mexico,"February, 2016",0,0,0,15,México,484,484,0,0,1,0,0,0,0,5,0,Mexico,Member State,0K,0,0%,2016
+South Cone,BRA,BRA,0%,Brazil,Brazil,"February, 2016",0,0,0,0,Brasil,76,76,0,0,1,0,0,0,0,5,0,Brazil,Member State,0K,0,0%,2016
+South Cone,BRA,BRA,0%,Brazil,Brazil,"February, 2016",1,5,0,0,Brasil,76,76,0,0,1,0,0,0,0,5,0,Brazil,Member State,0K,0,0%,2016
+South Cone,PRY,PRY,0%,Paraguay,Paraguay,"February, 2016",0,0,0,0,Paraguay,600,600,0,0,1,0,0,0,0,5,0,Paraguay,Member State,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"February, 2016",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,5,0,United States of America,Other,0K,0,0%,2016
+Latin Caribbean,MAF,MAF,0%,Saint Martin,Saint Martin,"February, 2016",0,0,0,0,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,5,0,France,Overseas collectivities,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,0%,Guadeloupe,Guadeloupe,"February, 2016",0,0,0,0,Guadalupe,312,312,0,0,1,0,0,0,0,5,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,GUF,GUF,0%,French Guiana,French Guiana,"February, 2016",0,0,0,0,Guayana Francesa,254,254,0,0,1,0,0,0,0,5,0,France,Participating State \Territory,0K,0,0%,2016
+Latin Caribbean,MTQ,MTQ,0%,Martinique,Martinique,"February, 2016",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,5,0,France,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","February, 2016",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,5,0,Netherlands,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,ABW,ABW,0%,Aruba,Aruba,"February, 2016",0,0,0,0,Aruba,533,533,0,0,1,0,0,0,0,6,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,0%,Sint Maarten,Sint Maarten,"February, 2016",0,0,0,0,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,6,0,Netherlands,Associated Member,0K,0,0%,2016
+Andean,COL,COL,545600%,Colombia,Colombia,"February, 2016",0,0,0,108,Colombia,170,170,0,0,1,0,0,0,1343,6,0,Colombia,Member State,4K,5348,321300%,2016
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"February, 2016",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,6,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,SLV,SLV,66100%,El Salvador,El Salvador,"February, 2016",0,0,0,0,El Salvador,222,222,0,0,1,0,0,0,0,6,0,El Salvador,Member State,0K,661,0%,2016
+Central America,NIC,NIC,2600%,Nicaragua,Nicaragua,"February, 2016",0,0,0,26,Nicaragua,558,558,0,0,1,0,0,0,4,6,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,PAN,PAN,800%,Panama,Panama,"February, 2016",0,0,0,8,Panamá,591,591,0,0,1,0,0,0,0,6,0,Panama,Member State,0K,0,0%,2016
+Latin Caribbean,DOM,DOM,8200%,Dominican Republic,Dominican Republic,"February, 2016",0,0,0,0,República Dominicana,214,214,0,0,1,0,0,0,0,6,0,Dominican Republic,Member State,0K,82,0%,2016
+Non Latin Caribbean,BRB,BRB,400%,Barbados,Barbados,"February, 2016",0,0,0,4,Barbados,52,52,0,0,1,0,0,0,3,6,0,Barbados,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,6,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,TTO,TTO,0%,Trinidad and Tobago,Trinidad and Tobago,"February, 2016",0,0,0,0,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,6,0,Trinidad and Tobago,Member State,0K,0,0%,2016
+North America,MEX,MEX,1300%,Mexico,Mexico,"February, 2016",0,0,0,13,México,484,484,0,0,1,0,0,0,3,6,0,Mexico,Member State,0K,0,0%,2016
+South Cone,BRA,BRA,197700%,Brazil,Brazil,"February, 2016",0,0,0,526,Brasil,76,76,0,0,1,0,0,0,0,6,0,Brazil,Member State,0K,1451,0%,2016
+Non Latin Caribbean,VIR,VIR,0%,United States Virgin Islands,United States Virgin Islands,"February, 2016",0,0,0,0,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,6,0,United States of America,Other,0K,0,0%,2016
+Latin Caribbean,MAF,MAF,600%,Saint Martin,Saint Martin,"February, 2016",0,0,0,6,Isla de San Martín (Francia),663,663,0,0,1,0,0,0,0,6,0,France,Overseas collectivities,0K,0,0%,2016
+Latin Caribbean,GLP,GLP,22900%,Guadeloupe,Guadeloupe,"February, 2016",0,0,0,8,Guadalupe,312,312,0,0,1,0,0,0,0,6,0,France,Participating State \Territory,0K,221,0%,2016
+Latin Caribbean,GUF,GUF,37100%,French Guiana,French Guiana,"February, 2016",0,0,0,11,Guayana Francesa,254,254,0,0,1,0,0,0,0,6,0,France,Participating State \Territory,0K,360,0%,2016
+Latin Caribbean,MTQ,MTQ,211000%,Martinique,Martinique,"February, 2016",0,0,0,0,Martinica,474,474,0,0,1,0,0,0,0,6,0,France,Participating State \Territory,0K,2110,0%,2016
+Non Latin Caribbean,BES,BES,0%,Bonaire,"Bonaire, Saint Eustatius and Saba","February, 2016",0,0,0,0,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,6,0,Netherlands,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,ABW,ABW,400%,Aruba,Aruba,"February, 2016",0,0,7,4,Aruba,533,533,0,0,1,0,0,0,0,7,0,Netherlands,Associated Member,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,100%,Sint Maarten,Sint Maarten,"February, 2016",0,0,0,1,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,7,0,Netherlands,Associated Member,0K,0,0%,2016
+Central America,CRI,COR,0%,Costa Rica,Costa Rica,"February, 2016",0,0,0,0,Costa Rica,188,188,0,0,1,0,0,0,0,7,0,Costa Rica,Member State,0K,0,0%,2016
+Central America,NIC,NIC,1900%,Nicaragua,Nicaragua,"February, 2016",0,0,0,19,Nicaragua,558,558,0,0,1,0,0,0,0,7,0,Nicaragua,Member State,0K,0,0%,2016
+Central America,PAN,PAN,1500%,Panama,Panama,"February, 2016",0,0,2,15,Panamá,591,591,0,0,1,0,0,0,0,7,0,Panama,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,0%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0,0,0,0,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,7,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,TTO,TTO,100%,Trinidad and Tobago,Trinidad and Tobago,"February, 2016",0,0,0,1,Trinidad y Tobago,780,780,0,0,1,0,0,0,0,7,0,Trinidad and Tobago,Member State,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,6000%,United States Virgin Islands,United States Virgin Islands,"February, 2016",0,0,0,1,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,7,0,United States of America,Other,0K,59,0%,2016
+Non Latin Caribbean,BES,BES,100%,Bonaire,"Bonaire, Saint Eustatius and Saba","February, 2016",0,0,0,1,"Bonaire, San Eustaquio y Saba",535,535,0,0,1,0,0,0,0,7,0,Netherlands,Participating State \Territory,0K,0,0%,2016
+Non Latin Caribbean,SXM,SXM,100%,Sint Maarten,Sint Maarten,"February, 2016",0,0,0,1,Isla de San Martín (Holanda),534,534,0,0,1,0,0,0,0,8,0,Netherlands,Associated Member,0K,0,0%,2016
+Central America,CRI,COR,200%,Costa Rica,Costa Rica,"February, 2016",0,0,0,2,Costa Rica,188,188,0,0,1,0,0,0,1,8,0,Costa Rica,Member State,0K,0,0%,2016
+Non Latin Caribbean,VCT,VCT,100%,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0,0,0,1,San Vicente y las Granadinas,670,670,0,0,1,0,0,0,0,8,0,St. Vincent and the Grenadines,Member State,0K,0,0%,2016
+Non Latin Caribbean,VIR,VIR,200%,United States Virgin Islands,United States Virgin Islands,"February, 2016",0,0,0,2,Islas Vírgenes (EUA),850,850,0,0,1,0,0,0,0,8,0,United States of America,Other,0K,0,0%,2016
