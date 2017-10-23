@@ -1,5 +1,5 @@
 # Trend Visualization Example
   
-This is a basic example of rend visualizations of hourly business data.  
+This is a basic example of trend visualizations generated from hourly business data.  
   
-There are some simple business questions and answers, which the visualizations substantiate.  
+Included are some simple business optimization questions and answers, which the visualizations substantiate.  
